@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5796" started-at="2021-05-18T23:46:03 SGT" finished-at="2021-05-18T23:46:09 SGT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5796" started-at="2021-05-18T23:46:03 SGT" finished-at="2021-05-18T23:46:09 SGT">
+      <class name="testAPI">
+        <test-method status="PASS" signature="testdelete()[pri:0, instance:testAPI@4e7dc304]" name="testdelete" duration-ms="3331" started-at="2021-05-18T23:46:03 SGT" finished-at="2021-05-18T23:46:07 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdelete -->
+        <test-method status="PASS" signature="testget()[pri:0, instance:testAPI@4e7dc304]" name="testget" duration-ms="481" started-at="2021-05-18T23:46:07 SGT" finished-at="2021-05-18T23:46:07 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testget -->
+        <test-method status="PASS" signature="testpatch()[pri:0, instance:testAPI@4e7dc304]" name="testpatch" duration-ms="986" started-at="2021-05-18T23:46:07 SGT" finished-at="2021-05-18T23:46:08 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpatch -->
+        <test-method status="PASS" signature="testpost()[pri:0, instance:testAPI@4e7dc304]" name="testpost" duration-ms="953" started-at="2021-05-18T23:46:08 SGT" finished-at="2021-05-18T23:46:09 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpost -->
+      </class> <!-- testAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
